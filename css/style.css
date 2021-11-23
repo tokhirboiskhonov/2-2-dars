@@ -575,15 +575,3 @@ main {
 .social:hover .social__image {
     opacity: 0;
 }
-
-/* .social:nth-child(1) {
-    background-image: url(../image-two/facebook.svg);
-}
-
-.social:nth-child(2) {
-    background-image: url(../image-two/twitter.svg);
-    background-size: 24px 20px;
-}
-
-.social:nth-child(3) {
-    background-image: url(../image-two/instagram.svg);} */
